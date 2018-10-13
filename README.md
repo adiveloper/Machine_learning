@@ -2,4 +2,4 @@
 
 This is a tensorflow tutorial.
 If you have installed tensorflow on your system, the dataset already exists.
-You don not require data set.
+You do not require data set.
